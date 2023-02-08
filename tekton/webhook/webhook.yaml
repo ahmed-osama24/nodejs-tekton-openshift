@@ -46,6 +46,6 @@ spec:
   - name: REVISION
     value: $(body.head_commit.id)
   - name: NAMESPACE
-    value: nodejs
+    value: project1
   - name: NAME
     value: nodejs
