@@ -48,4 +48,4 @@ spec:
   - name: NAMESPACE
     value: project1
   - name: NAME
-    value: nodejs
+    value: project1
